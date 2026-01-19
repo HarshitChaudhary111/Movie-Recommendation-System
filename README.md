@@ -29,6 +29,13 @@ Genres
 Cast
 Crew
 
+
+**IMPORTANT:** The `similarity.pkl` file is available via Google Drive (see `artifacts/` folder).
+
+
+
+
+
 Sample embeddings with t-SNE:
 <img width="1093" height="713" alt="image" src="https://github.com/user-attachments/assets/d2518627-2fd7-4aba-9ebb-7e4c0ee74b57" />
 
@@ -44,3 +51,15 @@ Movie Clusters:
 Working:
 
 <img width="483" height="180" alt="image" src="https://github.com/user-attachments/assets/6bbbf031-6e2b-4168-b040-76a4d4ec331f" />
+
+
+
+
+
+
+
+
+
+> ⚠️ **Important:** The `similarity.pkl` file is provided via Google Drive.  
+> Check the link inside the `artifacts/` folder.
+
